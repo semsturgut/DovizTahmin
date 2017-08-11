@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Doviz Tahmin</string>
+    <string name="hello_world">Hello World!</string>
 </resources>
